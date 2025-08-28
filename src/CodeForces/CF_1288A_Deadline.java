@@ -1,8 +1,8 @@
-package CodeForces.Contests;
+package CodeForces;
 
 import java.util.Scanner;
 
-public class CF_1288A {
+public class CF_1288A_Deadline {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt(); sc.nextLine();

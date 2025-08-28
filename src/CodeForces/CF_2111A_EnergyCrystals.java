@@ -1,8 +1,8 @@
-package CodeForces.Contests;
+package CodeForces;
 
 import java.util.Scanner;
 
-public class CF_2111A {
+public class CF_2111A_EnergyCrystals {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

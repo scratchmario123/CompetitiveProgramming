@@ -1,10 +1,10 @@
-package CodeForces.Contests;
+package CodeForces;
 
 import java.awt.*;
 import java.util.*;
 import java.util.List;
 
-public class CF_1450B {
+public class CF_1450B_BallsOfSteel {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();

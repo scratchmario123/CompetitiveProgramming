@@ -1,10 +1,10 @@
-package CodeForces.Contests;
+package CodeForces;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class CF_1859B {
+public class CF_1859B_OlyaAndGameWithArrays {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt(); sc.nextLine();

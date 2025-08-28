@@ -1,8 +1,8 @@
-package CodeForces.Contests;
+package CodeForces;
 
 import java.util.Scanner;
 
-public class CF_2094A {
+public class CF_2094A_TrippiTroppi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
