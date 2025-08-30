@@ -2,7 +2,7 @@ package AtCoder.ABC.ABC_420;
 
 import java.util.Scanner;
 
-public class ABC_420_C {
+public class ABC_420C {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
